@@ -1,5 +1,7 @@
 # Use Case: Multi-Device Assistant
 
+**YouTube walkthrough:** [Multi Device Assistant — System Design #Shorts](https://youtu.be/sfhyRIwcE34)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse conversation consistency from **10** + stream resume from **02**.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Multi Device Assistant — System Design #Shorts](https://youtu.be/sfhyRIwcE34)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
