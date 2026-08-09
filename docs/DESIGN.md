@@ -1,7 +1,7 @@
 # Design: Multi-Device Assistant
 
 **Project:** `multi-device-assistant`  
-**Parent system design:** `10-global-realtime-product-surface.md / 02`
+**Parent system design:** [10 — Global Realtime Product Surface](../10-global-realtime-product-surface.md) · [02 — Streaming Token Delivery](../02-streaming-token-delivery.md)
 
 ## 1. What this POC demonstrates
 
