@@ -1,5 +1,7 @@
 # Use Case: Multi-Device Assistant
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Multi Device Assistant — System Design #Shorts](https://youtu.be/sfhyRIwcE34)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
