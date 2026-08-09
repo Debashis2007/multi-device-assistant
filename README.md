@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [10 — Global Realtime Product Surface](./10-global-realtime-product-surface.md)  
-**Also references:** [02 — Streaming](./02-streaming-token-delivery.md)
+**Parent system design:** [10 — Global Realtime Product Surface](https://github.com/Debashis2007/multi-device-assistant/blob/main/10-global-realtime-product-surface.md)  
+**Also references:** [02 — Streaming](https://github.com/Debashis2007/multi-device-assistant/blob/main/02-streaming-token-delivery.md)
 
 ## Users & problem
 
